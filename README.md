@@ -9,3 +9,7 @@ A web chat application in PHP for communication between multiple clients and a s
 
 ## Installation
 * p
+
+## Screenshots
+* Client side
+* Admin side
