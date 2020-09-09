@@ -1,4 +1,4 @@
-pranavmittal611/PHPCha# PHPChat
+# PHPChat
 (Under construction, updated code will be added soon.)
 A web chat application in PHP for communication between multiple clients and a single admin. Can be used for customer support or feedback. The code can be easily modified to convert this into a full featured chat app.
 
